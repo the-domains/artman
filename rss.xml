@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Artman]]></title>
         <description><![CDATA[Artman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/artman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 18:55:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 19:05:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/artman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our family recently came back from Europe and our outgoing flight was delayed by a few hours so that we ended up missing our connection in Chicago, had to stay there for the night and fly to San Francisco the following day. American Airlines serviced us well, booking a Hotel and giving vouchers for dinner / breakfast. Now, the European Union forces airlines to pay penalties for late arrivals, so we asked both American Airlines - through whom we had booked three tickets - and Iberia, through which my ticket was booked (I had different outgoing flights) to pay €600 per passenger since we had missed our original arrival by more than 4 hours. American Airlines was quick to respond and offered to pay up for *all* of our tickets, including the one booked through Iberia. I was happy and all but forgot about the whole thing. Until I got an email from Iberia: I am writing in relation to flight IB 4235 of 08, august 2.013 and would like to take this opportunity to thank you for contacting us. Depending on the infrastructure and operation of each airport, the airlines and airport authorities establish minimum times to guarantee the connections of passengers and their luggage. When these times are shortened and the connection proves infeasible, we provide them with the quickest way to reach their destination, depending on the availability of alternative flights. On this occasion, your originating flight arrived late due to a fault that our technicians had to repair to ensure the safety of your flight. The moment we learned of this circumstance, we informed, attended and provided you with the quickest way of reaching your destination according to the available alternatives. As it was an extraordinary circumstance that we could not prevent, despite taking every reasonable measure, European Community Regulations establishes that no compensation is due. Thank you again for contacting us. Your assistance allows us to improve our service. We hope we continue to enjoy your trust. Sincerely, Customer Care Assistant Manager TLDR; Nope, we're not paying you anything Now obviously I wasn't expecting to get anything from them since American Airlines had already paid up (and would have rejected any offer they might have given me), but it was interesting to see that they: * Took their time and answered two months later * Tried to bullshit me that a technical fault wasn't covered by EU Regulations 261/2004 * Gave me a Reply-to address of: "This e-mail address is no longer in use." Thanks and FU!</p>]]></description>
+            <link>https://thegrid.ai/artman/our-family-recently-came-back-from-europe-and-our-outgoing-f/index.html</link>
+            <guid isPermaLink="false">162181ad-fda3-4dcd-82b0-c5eecfc68aa0</guid>
+            <pubDate>Sat, 23 Apr 2016 19:05:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>gdfgdfgdfgdfgdfgdfg</p>]]></description>
-            <link>undefinedgdfgdfgdfgdfgdfgdfg/index.html</link>
+            <link>https://thegrid.ai/artman/gdfgdfgdfgdfgdfgdfg/index.html</link>
             <guid isPermaLink="false">1ed5ae6e-cbae-45ea-a658-15e9d638bdeb</guid>
             <pubDate>Sat, 23 Apr 2016 18:55:10 GMT</pubDate>
         </item>
