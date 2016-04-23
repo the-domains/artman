@@ -1,28 +1,40 @@
-name: Artman
-favicon: null
 layout_spectrum: 0.7343919058330357
-typography_spectrum: 0.2133417008444667
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.5983854685910046
-  lightness: 0.7313293328043073
-  saturation: 0.9226805788930506
-  rhythmicContrast: 0.913468575803563
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9226805788930506
+  brandStrength: 0.5053763
+  lightness: 0.7313293328043073
+  brandColors:
+    - '#31322A'
+    - '#EBECF1'
+    - '#555651'
+    - '#B3B3B3'
+    - '#828280'
+  rhythmicContrast: 0.913468575803563
+typography_spectrum: 0.2133417008444667
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Artman
